@@ -25,7 +25,7 @@ html, body {
     margin: 0;
     padding: 1em;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
     background-color:#dedede;
